@@ -1,0 +1,26 @@
+.choose-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.choose-head {
+  text-align: center;
+  text-decoration: 2px solid blue;
+}
+.grouping {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.card-bg-color {
+  background-color: lightsteelblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.why-bottom-cards {
+  display: flex;
+  justify-content: space-between;
+}
